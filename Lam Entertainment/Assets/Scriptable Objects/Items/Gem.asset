@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b57b908d0f35790428747fe92cea74f8, type: 3}
+  m_Name: Gem
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 3438059909306943980, guid: 4c9b7ae0a792b2f4f8732fd4c4b2430f, type: 3}
+  type: 2
+  description: These finely crafted gems seem to ignore gravity. Collect as many
+    as you can they must have some value.

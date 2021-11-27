@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Candel
+  m_Shader: {fileID: -6465566751694194690, guid: 0550800cfa5e3cd45a10f8d8211d46d1,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_78475565353a43afa71e32100c1b1d60_Texture_1:
+        m_Texture: {fileID: 2800000, guid: c66cf9c3d9ae2d949898507aecc9c144, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_4f93dc19cc40459b98220d7f6099a138: 1
+    - Vector1_e5356ad427334c3d87f53c12326fc176: 0
+    m_Colors:
+    - Color_7660fdf3aaee4ec5a1c4223e4fa9e6ff: {r: 0.4458671, g: 0.6509434, b: 0.23642753,
+        a: 0}
+    - Color_bd30c889449c4ce2b42f408199ce2d6e: {r: 0, g: 0.2153285, b: 0.5, a: 0}
+    - Color_eec4c9d351ea4e5dbc9db255382cd281: {r: 0.8396226, g: 0.3128627, b: 0.2891153,
+        a: 0}
+  m_BuildTextureStacks: []
